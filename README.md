@@ -1,1 +1,2 @@
-# road-crosy
+# Projct
+Infinite Runner Game
